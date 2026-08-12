@@ -1,3 +1,4 @@
+--extra-index-url https://pypi.aikido.io/20879e771e71c5734e1e2
 aiofiles
 aiohttp==3.8.4
 asyncio==3.4.3
@@ -8,7 +9,7 @@ gitpython
 hachoir
 heroku3
 motor==3.4.0
-pillow==9.5.0
+pillow==9.5.0+aikido.11
 psutil
 py-tgcalls==0.9.7
 pykeyboard
