@@ -25,7 +25,7 @@ yt-dlp==2023.10.13
 youtube-search
 youtube-search-python
 pornhub-api==0.3.0
-openai==1.23.6
+openai==1.54.3
 telegraph
 async_pymongo
 gpytranslate
